@@ -1,0 +1,12 @@
+H:\VS15\C#\ChaotixCompressor\bin\Debug\ChaotixCompressor.exe.config
+H:\VS15\C#\ChaotixCompressor\bin\Debug\ChaotixCompressor.exe
+H:\VS15\C#\ChaotixCompressor\bin\Debug\ChaotixCompressor.pdb
+H:\VS15\C#\ChaotixCompressor\obj\Debug\ChaotixCompressor.csprojResolveAssemblyReference.cache
+H:\VS15\C#\ChaotixCompressor\obj\Debug\ChaotixCompressor.exe
+H:\VS15\C#\ChaotixCompressor\obj\Debug\ChaotixCompressor.pdb
+G:\C#\ChaotixCompressor\bin\Debug\ChaotixCompressor.exe.config
+G:\C#\ChaotixCompressor\obj\Debug\ChaotixCompressor.exe
+G:\C#\ChaotixCompressor\obj\Debug\ChaotixCompressor.pdb
+G:\C#\ChaotixCompressor\bin\Debug\ChaotixCompressor.exe
+G:\C#\ChaotixCompressor\bin\Debug\ChaotixCompressor.pdb
+G:\C#\ChaotixCompressor\obj\Debug\ChaotixCompressor.csprojResolveAssemblyReference.cache

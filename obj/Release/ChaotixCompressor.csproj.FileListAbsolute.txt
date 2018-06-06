@@ -1,0 +1,5 @@
+G:\C#\ChaotixCompressor\bin\Release\ChaotixCompressor.exe.config
+G:\C#\ChaotixCompressor\bin\Release\ChaotixCompressor.exe
+G:\C#\ChaotixCompressor\bin\Release\ChaotixCompressor.pdb
+G:\C#\ChaotixCompressor\obj\Release\ChaotixCompressor.exe
+G:\C#\ChaotixCompressor\obj\Release\ChaotixCompressor.pdb
