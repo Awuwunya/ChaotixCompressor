@@ -470,10 +470,6 @@ namespace ChaotixCompressor {
 				// get row data start and end
 				byte xst = readbitstream(rbx), xnd = readbitstream(rbx);
 
-				if (sin.Position > 0x139) {
-					int x = 0;
-				}
-
 				// Byte - Row Starting X within the Initial/Final X boundary.
 				wb((byte) (xst + rx));
 				// Byte - Row End X within the Initial/Final X Boundary.
@@ -761,9 +757,6 @@ namespace ChaotixCompressor {
 			while (true) {
 				// get row data start and end
 				byte xst = (byte)a[0].data(), xnd = (byte) a[1].data();
-				if(xst == xnd) {
-					int x = 0;
-				}
 
 				writebitstream(rbx, xst);
 				writebitstream(rbx, xnd);
